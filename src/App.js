@@ -21,7 +21,7 @@ function App() {
     <>
       {!isLoggedIn ? (
         <Mdk
-          appid="id__de19s0g6gqc7o7e5pbdh"
+          appid="id__vm92zs5l819cry3exytj"
           onSuccess={handleLoginSuccess}
           onFailure={handleLoginFailure}
         >
